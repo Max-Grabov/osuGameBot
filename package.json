@@ -1,0 +1,17 @@
+{
+  "name": "discord.js",
+  "version": "13.6.0",
+  "description": "discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "maximus grabovus the third",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "puppeteer": "^13.5.2",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
